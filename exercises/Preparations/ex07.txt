@@ -1,0 +1,5 @@
+Which of the following names satisfy 
+the style guidelines for function names?
+
+A:
+index, CatName, lazyDog, operand2
