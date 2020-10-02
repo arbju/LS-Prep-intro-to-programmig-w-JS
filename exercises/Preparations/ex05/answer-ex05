@@ -1,7 +1,0 @@
-The constructor for the prototype method substring, is String.
-	String.prototype.substring()
-
-The constructor for the prototype method create, is Object.
-	Object.create()
-
-
