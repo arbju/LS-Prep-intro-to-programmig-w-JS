@@ -5,4 +5,4 @@ for (let i = 0;i < number.length; i ++) {
   remainder = newnum % 10;
   console.log(remainder);
   newnum = (mumber - remainder) / 10;
-};
+}
