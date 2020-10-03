@@ -3,4 +3,4 @@ the style guidelines for naming
 variables, functions, or constants?
 
 A:
-snake_case, quick_Fox, 1stCharacter
+snake_case, quick_Fox, 1stCharactergit status
