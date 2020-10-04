@@ -1,0 +1,1 @@
+parseInt('3.1415')    // Evaluates to 3
